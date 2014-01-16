@@ -1,7 +1,7 @@
 TwilightDarcula
 ===============
 
-Twilight theme for PyCharm 2.8/3.x Darcula mode
+Twilight theme for PyCharm 2.8/3.x Darcula mode, based on TextMate / Sublime Text theme
 
 This is customized primarily for Django development
 
